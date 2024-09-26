@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Resham Saipranathi
 - 👀 I’m passionate web developer  
-- 🌱 I’m currently working in opensource program girl script summer of code 
+- 🌱 participated in opensource program girl script summer of code (gssoc'24)
 - 💞️ I’m looking to collaborate with the tech enthusiasts
 - 😄 Pronouns: she
 
